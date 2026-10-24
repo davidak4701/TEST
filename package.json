@@ -1,0 +1,11 @@
+{
+  "name": "code-review-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node --check src/cart.js && node --check src/auth/token.js",
+    "build": "node -e \"console.log('build ok')\""
+  }
+}
