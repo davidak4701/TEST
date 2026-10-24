@@ -1,0 +1,5 @@
+# 高風險路徑：永遠需要人工審查
+/.github/workflows/   @davidak4701
+/src/billing/         @davidak4701
+/src/auth/            @davidak4701
+/scripts/release/     @davidak4701
